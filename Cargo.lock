@@ -43,3 +43,7 @@ version = "0.1.0"
 dependencies = [
  "itertools",
 ]
+
+[[package]]
+name = "zigzag_conversion"
+version = "0.1.0"
