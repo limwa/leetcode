@@ -22,11 +22,19 @@ dependencies = [
 ]
 
 [[package]]
+name = "longest_palindromic_substring"
+version = "0.1.0"
+
+[[package]]
 name = "longest_substring_without_repeating_characters"
 version = "0.1.0"
 
 [[package]]
 name = "median_of_two_sorted_arrays"
+version = "0.1.0"
+
+[[package]]
+name = "template"
 version = "0.1.0"
 
 [[package]]
