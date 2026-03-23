@@ -1,0 +1,17 @@
+[workspace]
+resolver = "3"
+members = [
+  "problems/*"
+]
+
+[workspace.package]
+publish = false
+edition = "2024"
+
+[workspace.dependencies]
+rand = "0.8"
+regex = "1"
+itertools = "0.14"
+
+[workspace.lints]
+rust.dead_code = "allow"
